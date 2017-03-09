@@ -1,6 +1,6 @@
 # Code challenge
 
-Hi! Very excited to see what you can do! Please complete this coding challenge and submit within 7 days.    
+Hi! Very excited to see what you can do. Please complete this coding challenge and submit within 7 days.    
 
 ### Languages
 Please choose from one of these languages as these are what we use in-house.    
@@ -14,24 +14,38 @@ Please choose from one of these languages as these are what we use in-house.
 3. When you are done, email back with the link to your repo.    
 
 ## Challenge for Front-End    
-Congratulations, you've been accepted to 5 amazing schools! To help you decide where to go, you've decided to build a little game.        
-Your game is played like memory. You have 10 cards face down. A blue card for each school and a red card for how much you want to go (1, 2, 3, 4, 5).   
+Imagine your hardwork has paid off and you've been awarded 5 different scholarships! However, you can only pick one :/ ...    
+Your challenge is to build a widget to help you vizualize which scholarship you will pick.    
+- Widget 1: 
+  - This widget should be a chart or a similar tool to help you vizualize the loan payment over time. The widget should have as inputs a scholarship amount, interest, loan period (in months).    
+  - This widget should also show me current interest rates for student loans (you can use (this site)[https://studentaid.ed.gov/sa/types/loans/interest-rates] or an api of your choice.   
 
-Your game is so cool, I want to play it too but with my schools!    
-Build a little UI that takes in a JSON string (text input box is fine) like:    
-```
-[{"school_name": "Monsters U"}, {"school_name": "Slippery Rock"}, {"school_name": "Hard ball"}, {"school_name": "Prince U"}, {"school_name": "Sand Castle Rock"}]
-```    
-And builds a game for me to try.     
-Once I give you my schools JSON, make sure you can save it and restore the game from it (use a node.js server to handle this part). Saving to a JSON file is fine (please don't use any databases of any kind).    
+#### Challenge gotchas    
+1. Your widgets should be angular components.   
+2. The current load rates information cannot be done on the front-end. Must be done through a nodejs server.   
 
-The rest of this challenge is open-ended on purpose to see what you can do and how creative you can be.    
+#### Completion checklist    
+[ ] Your widgets are angular components    
+[ ] Styling is done with SASS    
+[ ] Widget 1 shows a graph (or similar) of expected payoff amount given a payoff date           
+[ ] Widget 1 can take as input a scholarship amount (typed into an input box). Ex: 60000  
+[ ] Widget 1 can take as input an interest rate (typed into an input box). Ex: 0.05    
+[ ] Widget 1 can take as input loan period (in months) (typed into an input box). Ex: 36    
+[ ] There exists somewhere on the page the current student loan interest rate (Direct Unsubsidized Loans for Undergraduates). Ex: 0.03   
+[ ] The rate is fetched by the nodejs server    
+
+#### Judging criteria    
+1. Met all requirements in checklist   
+2. Widget 1 animations are creative    
+3. Good coding style   
+4. Efficient code    
+5. Good and clear commit history   
 
 
 ## Challenge for Back-End
 Lucky you! Your hacking skills have been recognized and you've been awarded a bunch of scholarships (woot!). The catch is that you can only pick 11 scholarships...    
 
-In this challenge, pick the 11 scholarships that give you the most money! You can only pick sequential scholarships and the product of all scholarships you pick is how much money you'll be awarded!    
+In this challenge, pick the 11 scholarships that give you the most money! You can only pick sequential scholarships and the product of all scholarships you pick is how much money you'll be awarded! (this school is very cheap, so you only need a few dollars... scholarships are in the range 0-100)
 
 The number of scholarships n is such that n >= 100.    
 

@@ -18,7 +18,7 @@ Imagine your hardwork has paid off and you've been awarded 5 different scholarsh
 Your challenge is to build a widget to help you vizualize which scholarship you will pick.    
 - Widget 1: 
   - This widget should be a chart or a similar tool to help you vizualize the loan payment over time. The widget should have as inputs a scholarship amount, interest, loan period (in months).    
-  - This widget should also show me current interest rates for student loans you can use [this site](https://studentaid.ed.gov/sa/types/loans/interest-rates) or an api of your choice.   
+  - This widget should also show me current interest rates for student loans. You can use [this site](https://studentaid.ed.gov/sa/types/loans/interest-rates) or an API of your choice.   
 
 #### Challenge gotchas    
 1. Your widgets should be angular components.   

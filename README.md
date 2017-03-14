@@ -71,7 +71,7 @@ Once you've implemented your scholarship selection algorithm, build a small REST
 1 1 5 5 25    
 ```
 
-Answer: 5 * 9 * 25 = 1125   (this is not wrong, figure out where this pattern is...)       
+Answer: 5 * 9 * 25 = 1125   (this is not wrong, figure out where this pattern is...)    
 
 API Specs:    
 POST /max_scholarship     

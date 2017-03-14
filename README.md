@@ -36,7 +36,7 @@ Your challenge is to build a widget to help you vizualize and pick a loan.
 3. The other rates for private bank and university can be hardcoded from the instructions above.    
 
 #### Completion checklist    
-[ ] Your widgets are angular components    
+[ ] Your widget is an angular component    
 [ ] Styling is done with SASS    
 [ ] Widget 1 shows a graph (or similar) of expected payoff amount given a payoff date           
 [ ] Widget 1 can take as input a scholarship amount (typed into an input box). Ex: 60000  

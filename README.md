@@ -7,10 +7,10 @@ For **questions**, create a github issue and we will answer within 24 hours.
 Good luck!!   
 
 ### Languages
-Please choose from one of these languages as these are what we use in-house.    
+If you know many languages, that's great!! However, we need you to be python and javascript ninja at a minimum.       
+- If you do the Front-end challenge, use javascript.    
+- If you do the Back-end challenge, use python.   
 
-- Javascript 
-- Python
 
 ### Submit instructions     
 1. Create a github repository to use while you implement your challenge.    

@@ -32,7 +32,8 @@ Your challenge is to build a widget to help you vizualize and pick a loan.
 
 #### Challenge gotchas    
 1. Your widget should be an [angular (1)](https://angularjs.org/) component.   
-2. The current loading for rates information from [here](https://studentaid.ed.gov/sa/types/loans/interest-rates) cannot be done on the front-end. Must be done through a nodejs server. The other rates for private bank and university can be hardcoded from the instructions above.    
+2. The loan rate information from [here](https://studentaid.ed.gov/sa/types/loans/interest-rates) cannot be done on the front-end. Must be done through a nodejs server.  
+3. The other rates for private bank and university can be hardcoded from the instructions above.    
 
 #### Completion checklist    
 [ ] Your widgets are angular components    

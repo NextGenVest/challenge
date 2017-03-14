@@ -3,7 +3,7 @@
 Hi! Very excited to see what you can do. Please complete this coding challenge and submit within 7 days.    
 Pick either the front-end or back-end challenge (depending on what you're interested in applying for). You can also do both if you want to be considered for both positions.   
 
-For questions, create a github issue and we will answer within 24 hours.   
+For **questions**, create a github issue and we will answer within 24 hours.   
 Good luck!!   
 
 ### Languages

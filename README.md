@@ -16,6 +16,8 @@ If you know many languages, that's great!! However, we need you to be python and
 1. Create a github repository to use while you implement your challenge.    
 2. We'll look at the commit history and workflow as part of the evaluation process.   
 3. When you are done, email back with the link to your repo (willfalcon@nextgenvest.com).    
+4. Make sure you have a README.md with build instructions for your code.    
+5. Have fun!    
 
 ## Challenge for Front-End    
 Imagine your hardwork has paid off and you've been awarded a financial aid package. However, you have the option of choosing 1 loan from the 5 different loans offered :/ ...   
@@ -43,7 +45,8 @@ Your challenge is to build a widget to help you vizualize and pick a loan.
 [ ] Widget can take as input an interest rate (typed into an input box). Ex: 0.05    
 [ ] Widget can take as input loan period (in months) (typed into an input box). Ex: 36    
 [ ] There exists somewhere on the page the current student loan interest rate. Ex: 0.03   
-[ ] The rate is fetched by the nodejs server    
+[ ] The rate is fetched by the nodejs server   
+[ ] Your project has a README.md with build instructions   
 
 #### Judging criteria    
 1. Met all requirements in checklist   
@@ -51,6 +54,7 @@ Your challenge is to build a widget to help you vizualize and pick a loan.
 3. Good coding style   
 4. Efficient code    
 5. Good and clear commit history   
+6. Clear README.md build instructions   
 
 
 ## Challenge for Back-End

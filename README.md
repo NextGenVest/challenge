@@ -3,7 +3,7 @@
 Hi! Very excited to see what you can do. Please complete this coding challenge and submit within 7 days.    
 Pick either the front-end or back-end challenge (depending on what you're interested in applying for). You can also do both if you want to be considered for both positions.   
 
-For **questions**, create a github issue and we will answer within 24 hours or email us if you'd rather remain anonymous.   
+For **questions**, create a github issue and we will answer within 24 hours or email us at willfalcon@nextgenvest.com if you'd rather remain anonymous.   
 Good luck!!   
 
 ### Languages
@@ -15,7 +15,7 @@ If you know many languages, that's great!! However, we need you to be python and
 ### Submit instructions     
 1. Create a github repository to use while you implement your challenge.    
 2. We'll look at the commit history and workflow as part of the evaluation process.   
-3. When you are done, email back with the link to your repo.    
+3. When you are done, email back with the link to your repo (willfalcon@nextgenvest.com).    
 
 ## Challenge for Front-End    
 Imagine your hardwork has paid off and you've been awarded a financial aid package. However, you have the option of choosing 1 loan from the 5 different loans offered :/ ...   

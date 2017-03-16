@@ -20,7 +20,7 @@ If you know many languages, that's great!! However, we need you to be python and
 5. Have fun!    
 
 ## Challenge for Front-End    
-Imagine your hardwork has paid off and you've been awarded a financial aid package. However, you have the option of choosing 1 loan from the 5 different loans offered :/ ...   
+Imagine your hardwork has paid off and you've been awarded a financial aid package. However, you have the option of choosing 1 loan from the 4 different loans offered :/ ...   
 Your loan options are:    
 1. Direct Subsidized Loan ([interest here](https://studentaid.ed.gov/sa/types/loans/interest-rates))   
 2. Direct Unsubsidized Loan ([interest here](https://studentaid.ed.gov/sa/types/loans/interest-rates))   

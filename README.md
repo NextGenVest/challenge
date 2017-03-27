@@ -30,7 +30,7 @@ Your loan options are:
 Your challenge is to build a widget to help you vizualize and pick a loan.    
 - The Widget: 
   - This widget should be a chart or a similar tool to help you vizualize the loan payment over time. The widget should have as inputs a loan amount, interest, loan period (in months).    
-  - This widget should also show me the current interest rate for that loan. The rates listed above are enough. Figure out how to get the rates from [here](https://studentaid.ed.gov/sa/types/loans/interest-rates) (and yes, I know there isn't an api ;)).      
+  - This widget should also show me the current interest rate for that loan. The rates listed above are enough. Figure out how to get the rates from [here] (first rates on the top of the page are enough) (https://studentaid.ed.gov/sa/types/loans/interest-rates) (and yes, I know there isn't an api ;)).      
 
 #### Challenge gotchas    
 1. Your widget should be an [angular (1)](https://angularjs.org/) component.   

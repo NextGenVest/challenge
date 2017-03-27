@@ -41,7 +41,7 @@ Your challenge is to build a widget to help you vizualize and pick a loan.
 [ ] Your widget is an angular component    
 [ ] Styling is done with SASS    
 [ ] Widget shows a graph (or similar) of expected payoff amount given a payoff date           
-[ ] Widget can take as input a scholarship amount (typed into an input box). Ex: 60000  
+[ ] Widget can take as input a loan amount (typed into an input box). Ex: 60000  
 [ ] Widget can take as input an interest rate (typed into an input box). Ex: 0.05    
 [ ] Widget can take as input loan period (in months) (typed into an input box). Ex: 36    
 [ ] There exists somewhere on the page the current student loan interest rate. Ex: 0.03   
